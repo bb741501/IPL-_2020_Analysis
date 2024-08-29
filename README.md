@@ -1,11 +1,16 @@
-IPL_Auction_2022_EDA
+IPL_Auction_2022_EDA:
+
 The IPL 2022 Mega Auction featured 600 players going under the hammer in Bengaluru. Initially, over 1000 cricketers registered for the auction, but the list was eventually narrowed down to 590. Across ten franchises, there were 217 slots available. Of the 600 players, 229 were capped, and 371 were uncapped.
 
-Libraries Used
+Libraries Used:
+
 This project utilizes Python libraries such as pandas, numpy, matplotlib, and seaborn to analyze the IPL Auction dataset. The focus is on generating insights into the auction's outcomes, including details on sold and unsold players and team performances during the auction.
 
-Objectives
-The aim of the IPL_Auction_2022_EDA project is to clean, analyze, and explore the dataset to uncover various insights. The project investigates:
+Objectives:
+
+The aim of the IPL_Auction_2022_EDA project is to clean, analyze, and explore the dataset to uncover various insights. 
+
+The project investigates:
 
 The players who participated in the 2022 auction.
 Participation based on player roles.
